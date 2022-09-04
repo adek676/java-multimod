@@ -14,9 +14,9 @@
         <module>../multimod-dystr</module>
     </modules>
 
-    <!--<scm>
+    <scm>
         <developerConnection>scm:git:git@github.com:adek676/java-multimod.git</developerConnection>
-    </scm>-->
+    </scm>
 
     <build>
         <plugins>
