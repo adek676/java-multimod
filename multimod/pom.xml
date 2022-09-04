@@ -14,7 +14,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:adek676/java-multimod.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>multimod-1.3.124</tag>
   </scm>
 
     <build>
