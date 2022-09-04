@@ -20,7 +20,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:${ghthub_url}</developerConnection>
+        <developerConnection>scm:git:git@github.com:link</developerConnection>
     </scm>
 
     <build>
