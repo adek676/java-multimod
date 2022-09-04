@@ -13,6 +13,10 @@
         <relativePath>../multimod/pom.xml</relativePath>
     </parent>
 
+    <build>
+        <finalName>multi-test</finalName>
+    </build>
+
     <dependencies>
         <dependency>
             <groupId>com.adraps</groupId>
