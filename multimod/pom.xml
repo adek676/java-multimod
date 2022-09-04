@@ -19,7 +19,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:ssh:git@github.com:adek676/java-multimod.git</developerConnection>
+        <developerConnection>scm:git:ssh:git@github.com:adek676\java-multimod.git</developerConnection>
     </scm>
 
     <build>
