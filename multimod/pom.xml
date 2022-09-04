@@ -24,6 +24,7 @@
                 <version>3.0.0-M6</version>
                 <configuration>
                     <remoteTagging>false</remoteTagging>
+                    <pomFileName>../multimod/pom.xml</pomFileName>
                 </configuration>
             </plugin>
         </plugins>
