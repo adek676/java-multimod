@@ -5,12 +5,12 @@
     <parent>
         <groupId>com.adraps</groupId>
         <artifactId>multimod</artifactId>
-        <version>1.4</version>
+        <version>1.5-SNAPSHOT</version>
         <relativePath>../multimod/pom.xml</relativePath>
     </parent>
 
     <artifactId>multimod-data</artifactId>
-    <version>1.4</version>
+    <version>1.5-SNAPSHOT</version>
 
     
 </project>
