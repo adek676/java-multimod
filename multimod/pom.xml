@@ -14,13 +14,8 @@
         <module>../multimod-dystr</module>
     </modules>
 
-    <properties>
-        <project.scm.id>github-server</project.scm.id>
-        <ghthub_url>adek677/java-multimod.git</ghthub_url>
-    </properties>
-
     <scm>
-        <developerConnection>scm:git:git@github.com:link</developerConnection>
+        <developerConnection>scm:git:git@github.com:adek676/java-multimod.git</developerConnection>
     </scm>
 
     <build>
