@@ -4,7 +4,7 @@
 
     <groupId>com.adraps</groupId>
     <artifactId>multimod</artifactId>
-    <version>1.2</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -14,7 +14,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:adek676/java-multimod.git</developerConnection>
-    <tag>multimod-1.2</tag>
   </scm>
 
     <build>
