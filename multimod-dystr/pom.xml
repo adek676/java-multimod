@@ -14,7 +14,7 @@
     </parent>
 
     <build>
-        <finalName>multi-test</finalName>
+        <finalName>multi-test#${project.parent.version}</finalName>
     </build>
 
     <dependencies>
